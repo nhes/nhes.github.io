@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Beijing University of Posts and Telecommunications, 2022-2025
+* B.S. in Computer Science, Beijing University of Posts and Telecommunications, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2025 - Present: Intern
+  * InfiX.ai
+  * Working on large language model applications and research
   
-Skills
+* June 2024 - October 2024: Algorithm Intern
+  * Zhipu AI (GLM)
+  * Conducted research on large language model algorithms and applications
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Large Language Models (LLMs)
+* Multi-agent Systems
+* 6G Networks and Edge Computing
+* Educational AI Systems
 
 Publications
 ======
