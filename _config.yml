@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.jpg"
   name             : "Zheyan Qu"
   pronouns         : # example: "she/her"  
   bio              : "Master's Student at BUPT | Intern at InfiX.ai"
