@@ -11,14 +11,15 @@ I am Zheyan Qu, graduated from Beijing University of Posts and Telecommunication
 
 Education
 ======
-* **M.S. in Computer Science**, Beijing University of Posts and Telecommunications, 2022-2025
-* **B.S. in Computer Science**, Beijing University of Posts and Telecommunications, 2018-2022
+* **M.S. in Information and Communication Engineering**, Beijing University of Posts and Telecommunications, 2022-2025
+* **B.S. in Information Engineering**, Beijing University of Posts and Telecommunications, 2018-2022
 
 Research Interests
 ======
 My research focuses on:
 * Large Language Models (LLMs)
 * Multi-agent systems (MAS)
+* Agentic Reinforcement Learning
 * MAS enabled AI Scientist and AI doctor
 
 Recent News
