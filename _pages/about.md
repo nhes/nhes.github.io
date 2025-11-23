@@ -14,14 +14,6 @@ Education
 * **M.S. in Computer Science**, Beijing University of Posts and Telecommunications, 2022-2025
 * **B.S. in Computer Science**, Beijing University of Posts and Telecommunications, 2018-2022
 
-Work Experience
-======
-* **Intern, InfiX.ai** (September 2025 - Present)
-  * Working on large language model applications and research
-
-* **Algorithm Intern, Zhipu AI** (June 2024 - October 2024)
-  * Conducted research on large language model algorithms and applications
-
 Research Interests
 ======
 My research focuses on:

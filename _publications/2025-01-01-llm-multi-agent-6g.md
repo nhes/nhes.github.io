@@ -7,7 +7,7 @@ excerpt: 'This paper proposes a framework for LLM-enabled multi-agent systems in
 date: 2025-01-01
 venue: 'IEEE Communications Magazine'
 slidesurl: # URL to slides
-paperurl: # URL to paper PDF if available
+paperurl: 'https://arxiv.org/abs/2509.04993'
 citation: 'Z. Qu, W. Wang, Z. Yu, B. Sun, Y. Li, and X. Zhang, &quot;LLM Enabled Multi-Agent System for 6G Networks: Framework and Method of Dual-Loop Edge-Terminal Collaboration,&quot; <i>IEEE Communications Magazine</i>, Accepted.'
 ---
 
@@ -16,4 +16,6 @@ This paper presents a novel framework for LLM-enabled multi-agent systems design
 **Authors:** Z. Qu, W. Wang, Z. Yu, B. Sun, Y. Li, and X. Zhang
 
 **Status:** Accepted for publication in IEEE Communications Magazine
+
+**ArXiv Link:** [https://arxiv.org/abs/2509.04993](https://arxiv.org/abs/2509.04993)
 
